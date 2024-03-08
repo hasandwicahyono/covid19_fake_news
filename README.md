@@ -1,5 +1,5 @@
 # covid19_fake_news
-*Hasan Dwi Cahyono, Atara Mahadewa, Ardhi Wijayanto, Dewi Wisnu Wardani, Haryono Setiadi 2024*
+*Hasan Dwi Cahyono, Atara Mahadewa, Ardhi Wijayanto, Dewi Wisnu Wardani, Haryono Setiadi (2024)*
 
 
 [![IJEECS](https://ijeecs.iaescore.com/public/journals/15/homeHeaderTitleImage_en_US.png)](https://ijeecs.iaescore.com/index.php/IJEECS/article/view/35494)
@@ -27,11 +27,17 @@ pip install -r requirements.txt
 
 ## Citation
 ```bash
-@inproceedings{dolatabadi2020lrs,
-  title={Invertible Generative Modeling using Linear Rational Splines},
-  author={Hadi Mohaghegh Dolatabadi and Sarah Erfani and Christopher Leckie},
-  booktitle={The 23rd International Conference on Artificial Intelligence and Statistics (AISTATS)},
-  pages={4236--4246},
-  year={2020}
+@article{Cahyono2024,
+abstract = {The growth of fake news has emerged as a substantial societal concern, particularly in the context of the COVID-19 pandemic. Fake news can lead to unwarranted panic, misinformed decisions, and a general state of confusion among the public. Existing methods to detect and filter out fake news have accuracy, speed, and data distribution limitations. This study explores a fast and reliable approach based on Na{\"{i}}ve Bayes algorithms for fake news detection on COVID-19 news in social networks. The study used a dataset of 10,700 tweets and applied text pre-processing, term-weighting, document frequency thresholding, and synthetic minority oversampling techniques (SMOTE) to prepare the data for classification. The study assessed the performance and runtime of four models: gradient boosting (GDBT), decision tree (DT), multinomial Na{\"{i}}ve Bayes (MNB), and complement Na{\"{i}}ve Bayes (CNB). The testing results showed that the CNB model reaches the highest accuracy, precision, recall, and F1 score of approximately 92% each, with the shortest runtime of 0.55 seconds. This study highlights the potential of the CNB model as an effective tool for detecting online fake news about COVID- 19, given its superior performance and rapid processing time.},
+author = {Cahyono, Hasan Dwi and Mahadewa, Atara and Wijayanto, Ardhi and Wardani, Dewi Wisnu and Setiadi, Haryono},
+file = {:Users/hasandc/Documents/Mendeley Desktop/Cahyono et al. - 2024 - Fast Na{\"{i}}ve Bayes classifiers for COVID-19 news in social networks.pdf:pdf},
+journal = {Indonesian Journal of Electrical Engineering and Computer Science},
+keywords = {Fake news detection,Fast and reliable,Na{\"{i}}ve Bayes classifiers,Real-time processing,Social media},
+mendeley-tags = {Fake news detection,Fast and reliable,Na{\"{i}}ve Bayes classifiers,Real-time processing,Social media},
+number = {2},
+title = {{Fast Na{\"{i}}ve Bayes classifiers for COVID-19 news in social networks}},
+volume = {34},
+year = {2024}
 }
+
 ```
