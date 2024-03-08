@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 2. Download the dataset for this research accordingly from [https://competitions.codalab.org/competitions/26655]. Extract the data into your preferred location such as "/content/drive/MyDrive/UNS/dataset/" and adjust the dataset location in 'PATH'.
 
-3. Now, you can run each experiment of the paper.
+3. Now, you can run each experiment of the paper using "./Cov19_Fake_News.ipynb".
 
 
 ## Citation
