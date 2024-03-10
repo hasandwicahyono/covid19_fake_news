@@ -2,7 +2,7 @@
 *Hasan Dwi Cahyono, Atara Mahadewa, Ardhi Wijayanto, Dewi Wisnu Wardani, Haryono Setiadi (2024)*
 
 
-[![IJEECS](https://iaes.or.id/wp-content/uploads/2022/04/iaes-1.png)](https://ijeecs.iaescore.com/index.php/IJEECS/article/view/35494)
+[![IJEECS](https://ijeecs.iaescore.com/public/journals/15/journalFavicon_en_US.png)](https://ijeecs.iaescore.com/index.php/IJEECS/article/view/35494)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository is dedicated for COVID-19 fake news detection and classification and includes the Python Code in Jupyter Notebook for the paper of [Fast Naïve Bayes classifiers for COVID-19 news in social networks]
@@ -23,7 +23,6 @@ pip install -r requirements.txt
 2. Download the dataset for this research accordingly from [https://competitions.codalab.org/competitions/26655]. Extract the data into your preferred location such as "/content/drive/MyDrive/UNS/dataset/" and adjust the dataset location in 'PATH'.
 
 3. Now, you can run each experiment of the paper using "./Cov19_Fake_News.ipynb".
-
 
 ## Citation
 ```bash
