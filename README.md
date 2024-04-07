@@ -30,9 +30,9 @@ pip install -r requirements.txt
 author = {Cahyono, Hasan Dwi and Mahadewa, Atara and Wijayanto, Ardhi and Wardani, Dewi Wisnu and Setiadi, Haryono},
 journal = {Indonesian Journal of Electrical Engineering and Computer Science},
 keywords = {Fake news detection,Fast and reliable,Na{\"{i}}ve Bayes classifiers,Real-time processing,Social media},
-number = {?},
+number = {2},
 title = {{Fast Na{\"{i}}ve Bayes classifiers for COVID-19 news in social networks}},
-volume = {??},
+volume = {34},
 year = {2024}
 }
 
